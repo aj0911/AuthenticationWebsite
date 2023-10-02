@@ -5,6 +5,7 @@
 /.pnp
 .pnp.js
 /.env
+/auth app.mp4
 
 # testing
 /coverage
